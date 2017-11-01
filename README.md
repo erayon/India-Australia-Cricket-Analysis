@@ -20,7 +20,17 @@ of player 2016
 > Indian Bowlers      :  ![Alt text](im2.png?raw=true "Batting")
 > Australian Bowlers  :  ![Alt text](im3.png?raw=true "Batting") 
  
-### Bowler Analysis India
+## 3. Which players (one from India and one from Australia) have similar performance record in the given timeframe?
+> Follow the same as above 
+> Include a threshold value such that a particular bowler consider as best bowler if he play more than a threshold number of innings.
+> find the mean of innings of indian bowler dataframe, its around 13, so cosider thoes bowler who have played more than 13 innings as a best bowlers.
+> Same for Australian bowler too and for them threshold around 12, so consider thoes bowler who have played more than 13 innings as a best bowlers.
+> and plot both of them in a scatter plot such that X_axis : Runs_per_wicket and Y_axis : Wickets_per_innings with annotation
+![Alt text](imx.png?raw=true "Batting") 
+> So as we can see from that plot they both have more or less similar performance record in the given timeframe
+```
+JJ Bumrah   : India
+JW Hastings : Australia
 
-
+```
 
