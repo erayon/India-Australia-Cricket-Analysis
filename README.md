@@ -11,7 +11,7 @@ of player 2016
 > In the same way plotted another graph  having 'Players with total runs of player in year 2016' 
 ![Alt text](im1.png?raw=true "Batting") 
 
-## 2. Compare best bowlers (measured by runs/wicket or runs/over) from India and Australia.
+## 2. Compare best bowlers (measured by runs/wicket or runs/over) from India and Australia. (bowling_comaprism .ipynb)
 > We have the table wigh columns Player,Maiden,Overs,Runs,Wickets,Economy,Inn,Opposition,Gound,Start Date of Indian bowlers angainst Austrailia.
 > Added a column having 'run/wicket' which displays each Indian bowlers runs per wicket.
 > Created Dataframe having Player name, Maximum runs/wicket and Total runs/wicket.
@@ -20,7 +20,7 @@ of player 2016
 > Indian Bowlers      :  ![Alt text](im2.png?raw=true "Batting")
 > Australian Bowlers  :  ![Alt text](im3.png?raw=true "Batting") 
  
-## 3. Which players (one from India and one from Australia) have similar performance record in the given timeframe?
+## 3. Which players (one from India and one from Australia) have similar performance record in the given timeframe? (bowling_comaprism .ipynb)
 > Follow the same as above 
 > Include a threshold value such that a particular bowler consider as best bowler if he play more than a threshold number of innings.
 > find the mean of innings of indian bowler dataframe, its around 13, so cosider thoes bowler who have played more than 13 innings as a best bowlers.
