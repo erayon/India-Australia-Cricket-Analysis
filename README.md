@@ -1,7 +1,7 @@
 # India-Australia-Cricket-Analysis
 For the cricket fans this one is for you. We have compiled the stats for Australia (over 60 matches) &amp; India (over 50 matches) from January 2015 to September 2017
 
-## 1. Visualize the performance of India’s batting in the match where they scored highest runs in 2016
+## 1. Visualize the performance of India’s batting in the match where they scored highest runs in 2016 (India’s_batting_performance_2016.ipynb)
 > We have the table with columns Player,Player link,Minutes, Runs, Ball faced, Fours, Sixes, Strike Rate, Inns, Opposition,Ground,Stat date
 of player 2016
 > Then Split the year from Start Date columan and created the new column name 'year'
@@ -12,18 +12,13 @@ of player 2016
 ![Alt text](im1.png?raw=true "Batting") 
 
 ## 2. Compare best bowlers (measured by runs/wicket or runs/over) from India and Australia.
-
-We have the table wigh columns Player,Maiden,Overs,Runs,Wickets,Economy,Inn,Opposition,Gound,Start Date of Indian bowlers angainst Austrailia
-
-Added a column having 'run/wicket' which displays each Indian bowlers runs per wicket
-
-Extracted data who bowled opposite Australia
-
-Created Dataframe having Player name, Maximum runs/wicket and Total runs/wicket
-
-Plottted graph with maximum runs/wicket and Indian bowlers who played opposite Australlia
-
-Alos plotted graph with Total runs/wicket and Indian bowlers who played opposite Australia
+> We have the table wigh columns Player,Maiden,Overs,Runs,Wickets,Economy,Inn,Opposition,Gound,Start Date of Indian bowlers angainst Austrailia.
+> Added a column having 'run/wicket' which displays each Indian bowlers runs per wicket.
+> Created Dataframe having Player name, Maximum runs/wicket and Total runs/wicket.
+> Plottted graph with maximum runs/wicket and Indian bowlers and Australian bowlers.
+> Alos plotted graph with Total runs/wicket Indian bowlers and Australian bowlers.
+> Indian Bowlers      :  ![Alt text](im2.png?raw=true "Batting")
+> Australian Bowlers  :  ![Alt text](im3.png?raw=true "Batting") 
  
 ### Bowler Analysis India
 
