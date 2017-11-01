@@ -17,8 +17,8 @@ of player 2016
 3. Created Dataframe having Player name, Maximum runs/wicket and Total runs/wicket.
 4. Plottted graph with maximum runs/wicket and Indian bowlers and Australian bowlers.
 5. Alos plotted graph with Total runs/wicket Indian bowlers and Australian bowlers.
- Indian Bowlers      :  ![Alt text](im2.png?raw=true "Batting")
- Australian Bowlers  :  ![Alt text](im3.png?raw=true "Batting") 
+6. Indian Bowlers      :  ![Alt text](im2.png?raw=true "Batting")
+7. Australian Bowlers  :  ![Alt text](im3.png?raw=true "Batting") 
  
 ## 3. Which players (one from India and one from Australia) have similar performance record in the given timeframe? (bowling_comaprism .ipynb)
 1. Follow the same as above 
